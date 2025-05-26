@@ -6,19 +6,19 @@
 
 Bem-vindo(a) ao meu refúgio, um lugar onde o código é forjado e os desafios são aceitos. Sou **Vitor Guimarães**, um desenvolvedor que não recua diante das complexidades. Atualmente, minha alma de ferreiro do código se dedica a:
 
-* **Forjar Backends:** Erguendo APIs robustas com **PHP (Laravel)**, prontas para enfrentar qualquer adversidade.
-* **Dominar o Mobile:** Navegando pelos reinos de **React Native e Kotlin**, construindo pontes para o mundo.
+* **Forjar Backends:** Erguendo APIs robustas com **PHP (Laravel)**, prontas para enfrentar qualquer adversidade. ⚔️
+* **Dominar o Mobile:** Navegando pelos reinos de **React Native e Kotlin**, construindo pontes para o mundo. 📱
 
-Minha busca incessante? Aprimorar minhas habilidades como **full stack**, garantindo um **clean code** que resiste ao teste do tempo e entregando **projetos reais** que deixam sua marca.
+Minha busca incessante? Aprimorar minhas habilidades como **full stack**, garantindo um **clean code** que resiste ao teste do tempo e entregando **projetos reais** que deixam sua marca. ✨
 
-Se você busca um aliado para sua próxima empreitada ou apenas quer testar a resiliência de suas ideias, a chama está acesa.
+Se você busca um aliado para sua próxima empreitada ou apenas quer testar a resiliência de suas ideias, a chama está acesa. 🔥
 📫 **vitorgguimaraes56@gmail.com**
 
 ---
 
 ### ⚔️ Meu Arsenal de Ferramentas
 
-Cada jornada exige as ferramentas certas. Aqui estão as lâminas e feitiços que carrego para cada batalha de código:
+Cada jornada exige as ferramentas certas. Aqui estão as lâminas e feitiços que carrego para cada batalha de código: 🛠️
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php" />
@@ -27,7 +27,7 @@ Cada jornada exige as ferramentas certas. Aqui estão as lâminas e feitiços qu
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" />
   <img width="10" />
-  <img src="https="https://skillicons.dev/icons?i=react" height="40" alt="react native" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react native" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img width="10" />
@@ -42,19 +42,19 @@ Cada jornada exige as ferramentas certas. Aqui estão as lâminas e feitiços qu
 
 ### 📜 Crônicas de Projetos: Desafios Superados
 
-Cada projeto é um tomo de aprendizado, uma batalha vencida. Mergulhe nas minhas sagas de código:
+Cada projeto é um tomo de aprendizado, uma batalha vencida. Mergulhe nas minhas sagas de código: 🚀
 
 | Projeto | Descrição |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" /> [**Kotlin-basics**](https://github.com/VitorVts/kotlin-basics) | Os primeiros passos de um **Undead** no Kotlin, dominando os fundamentos e fortalecendo a lógica para o que está por vir. |
-| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" /> [**Plano de Estudos**](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin) | O mapa da minha jornada, detalhando o caminho para a maestria em PHP e Kotlin, com projetos práticos que são verdadeiras provações. |
-| <img src="https="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel" /> [**GreenBank**](https://github.com/VitorVts/GreenBank) | Um desafio de backend em Laravel, onde a resiliência foi testada e a vitória foi conquistada. Cada linha de código, um golpe certeiro. |
+| <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" /> [**Kotlin-basics**](https://github.com/VitorVts/kotlin-basics) | Os primeiros passos de um **Undead** no Kotlin, dominando os fundamentos e fortalecendo a lógica para o que está por vir. 🧠 |
+| <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" /> [**Plano de Estudos**](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin) | O mapa da minha jornada, detalhando o caminho para a maestria em PHP e Kotlin, com projetos práticos que são verdadeiras provações. 🗺️ |
+| <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel" /> [**GreenBank**](https://github.com/VitorVts/GreenBank) | Um desafio de backend em Laravel, onde a resiliência foi testada e a vitória foi conquistada. Cada linha de código, um golpe certeiro. ✅ |
 
 ---
 
 ### 📊 O Medidor de Almas: Atividade no GitHub
 
-Minha atividade no GitHub é um reflexo das almas coletadas no campo de batalha do código. Observe meu progresso:
+Minha atividade no GitHub é um reflexo das almas coletadas no campo de batalha do código. Observe meu progresso: 📈
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VitorVts&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
@@ -63,12 +63,12 @@ Minha atividade no GitHub é um reflexo das almas coletadas no campo de batalha 
 
 ---
 
-### 💀 Ecos da Cripta: Fatos (e Maldições) Sobre Mim
+### 🎮 Além do Código: Meus Interesses
 
-Além das linhas de código, há mais para desvendar:
+Quando não estou na fogueira do código, você me encontra aqui:
 
-- O coração de um **Soulslike** pulsa forte em minhas veias. Cada morte, uma lição; cada vitória, um feito. 🗡️
-- Meus projetos não são meros rascunhos. Eles carregam **animações, cores sombrias e uma personalidade inconfundível**. Como artefatos antigos, eles têm sua própria essência. 😎
+-   O coração de um **Soulslike** pulsa forte em minhas veias. Cada morte, uma lição; cada vitória, um feito. 🗡️💀
+-   Meus projetos não são meros rascunhos. Eles carregam **animações, cores sombrias e uma personalidade inconfundível**. Como artefatos antigos, eles têm sua própria essência. ✨🎨
 
 ---
 
@@ -78,4 +78,4 @@ Além das linhas de código, há mais para desvendar:
 
 ---
 
-✨ *A fogueira está acesa. Se a escuridão do código te chamar, ou se precisar de um companheiro nesta jornada, não hesite. A morte não é o fim, apenas um recomeço.*
+✨ *A fogueira está acesa. Se a escuridão do código te chamar, ou se precisar de um companheiro nesta jornada, não hesite. A morte não é o fim, apenas um recomeço.* 💻🚀
