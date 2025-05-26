@@ -1,4 +1,11 @@
-<h1 align="left">Bem Vindo, forasteiro(a) 👋</h1>
+<h1 align="left">Bem-vindo, forasteiro(a) 👋</h1>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=VitorVts&color=006bed" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/VitorVts?label=Seguidores&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorgguimaraes/" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:vitorgguimaraes56@gmail.com" alt="Gmail" />
+</p>
 
 ---
 
@@ -11,7 +18,7 @@ Bem-vindo(a) ao meu refúgio, um lugar onde o código é forjado e os desafios s
 
 Minha busca incessante? Aprimorar minhas habilidades como **full stack**, garantindo um **clean code** que resiste ao teste do tempo e entregando **projetos reais** que deixam sua marca. ✨
 
-Se você busca um aliado para sua próxima empreitada ou apenas quer testar a resiliência de suas ideias, a chama está acesa. 🔥
+Se você busca um aliado para sua próxima empreitada ou apenas quer testar a resiliência de suas ideias, a chama está acesa. 🔥  
 📫 **vitorgguimaraes56@gmail.com**
 
 ---
@@ -61,14 +68,20 @@ Minha atividade no GitHub é um reflexo das almas coletadas no campo de batalha 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorVts&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="150" alt="Top Linguagens" />
 </div>
 
+<details>
+  <summary>Ver mais cards de status e personalizações</summary>
+
+  [Veja todos os exemplos de cards de status e temas](cards-status/readme.md)
+</details>
+
 ---
 
 ### 🎮 Além do Código: Meus Interesses
 
 Quando não estou na fogueira do código, você me encontra aqui:
 
--   O coração de um **Soulslike** pulsa forte em minhas veias. Cada morte, uma lição; cada vitória, um feito. 🗡️💀
--   Meus projetos não são meros rascunhos. Eles carregam **animações, cores sombrias e uma personalidade inconfundível**. Como artefatos antigos, eles têm sua própria essência. ✨🎨
+- O coração de um **Soulslike** pulsa forte em minhas veias. Cada morte, uma lição; cada vitória, um feito. 🗡️💀
+- Meus projetos não são meros rascunhos. Eles carregam **animações, cores sombrias e uma personalidade inconfundível**. Como artefatos antigos, eles têm sua própria essência. ✨🎨
 
 ---
 
@@ -78,4 +91,15 @@ Quando não estou na fogueira do código, você me encontra aqui:
 
 ---
 
+<details>
+  <summary>Formatações avançadas, badges e dicas extras</summary>
+
+- [Badges e Shields para seu perfil e projetos](badges-shields/readme.md)
+- [Formatações avançadas: alertas, diagramas, mapas e mais](avancado/readme.md)
+</details>
+
+---
+
 ✨ *A fogueira está acesa. Se a escuridão do código te chamar, ou se precisar de um companheiro nesta jornada, não hesite. A morte não é o fim, apenas um recomeço.* 💻🚀
+
+---
