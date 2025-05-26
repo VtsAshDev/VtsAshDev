@@ -88,16 +88,6 @@ Quando não estou na fogueira do código, você me encontra aqui:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF3D57&center=true&vCenter=true&width=435&lines=Keep+coding...;Style+with+darkness...;Deploy+with+passion." alt="Keep coding... Style with darkness... Deploy with passion." />
 </p>
-
----
-
-<details>
-  <summary>Formatações avançadas, badges e dicas extras</summary>
-
-- [Badges e Shields para seu perfil e projetos](badges-shields/readme.md)
-- [Formatações avançadas: alertas, diagramas, mapas e mais](avancado/readme.md)
-</details>
-
 ---
 
 ✨ *A fogueira está acesa. Se a escuridão do código te chamar, ou se precisar de um companheiro nesta jornada, não hesite. A morte não é o fim, apenas um recomeço.* 💻🚀
