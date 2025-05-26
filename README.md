@@ -40,7 +40,6 @@
 | <img src="https://skillicons.dev/icons?i=kotlin" height="30" alt="kotlin" /> [Kotlin-basics](https://github.com/VitorVts/kotlin-basics)       | Exercícios para aprender Kotlin e lógica segundo meu plano de estudos |
 | <img src="https://skillicons.dev/icons?i=php" height="30" alt="php" /> [Plano de Estudos](https://github.com/VitorVts/Plano-Estudos-PHP-Kotlin)       | Meu plano de estudos em PHP e Kotlin, com projetos práticos |
 | <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel" /> [GreenBank](https://github.com/VitorVts/GreenBank) | Projeto backend em Laravel, desafio técnico |
-| <img src="https://skillicons.dev/icons?i=react" height="30" alt="react native" /> [React Native User Profiles](https://github.com/VitorVts/ReactNativeUserProfiles) | App para lista e detalhes de perfis com React Native |
 
 ---
 
