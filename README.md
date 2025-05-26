@@ -1,4 +1,4 @@
-<h1 align="left">Prepare-se, forasteiro(a). Sou Vitor Guimarães. 👋</h1>
+<h1 align="left">Bem Vindo, forasteiro(a) 👋</h1>
 
 ---
 
